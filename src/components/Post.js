@@ -20,7 +20,7 @@ class Post extends Component {
       
       </div>
     ) : (
-      <div>Post Not Found</div>
+      <div>Post Not Found !! </div>
     );
     return <div className="container">{post}</div>;
   }
