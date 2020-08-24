@@ -1,0 +1,27 @@
+body{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    background: white;
+}
+
+.home .post img{
+    height: 100%;
+    width: 100%;
+    object-fit:fill;
+
+}
+
+.home .post {
+    overflow:hidden;
+    padding-left:80px;
+    padding-bottom: 90px;
+}
+.image-style{
+    position:absolute;
+   margin-left: 800px;
+    right: 0;
+
+    top:80px;
+    opacity:0.5;
+}
